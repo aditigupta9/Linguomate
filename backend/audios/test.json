@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Applications/Deepakkr/4th sem/PbL-2/3dgirlfriend/r3f-virtual-girlfriend-backend/audios/message_0.wav",
+    "duration": 0.83
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.23, "value": "C" },
+    { "start": 0.23, "end": 0.30, "value": "B" },
+    { "start": 0.30, "end": 0.44, "value": "C" },
+    { "start": 0.44, "end": 0.65, "value": "B" },
+    { "start": 0.65, "end": 0.83, "value": "X" }
+  ]
+}
